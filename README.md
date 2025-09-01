@@ -81,10 +81,6 @@ Run the SQL scripts from /database to set up schema and seed data.
 
 Deploy on Apache Tomcat server.
 
-Access the app at:
-
-http://localhost:8080/marketplace
-
 🧪 Testing
 
 Run JUnit tests located in /src/test/java.

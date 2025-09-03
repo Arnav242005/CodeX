@@ -51,10 +51,6 @@ DAO Layer (Data Access Objects via Hibernate)
    ↓  
 Database (MySQL)  
 
-📷 Screenshots / Mockups
-
-(Add screenshots or Figma designs here if available)
-
 ⚡ Getting Started
 Prerequisites
 
@@ -99,7 +95,7 @@ Deploy on cloud platforms (AWS, Azure, or Heroku)
 
 👨‍💻 Author
 
-Arnav Jadhav
+Arnav Jadhav & Vedant Gharat
 
 Full-Stack Developer | Java & React Enthusiast
 
